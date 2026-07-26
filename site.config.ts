@@ -13,7 +13,7 @@ export default defineSiteConfig({
       message: '发呆ing...',
       },
   },
-  description: '雨是神的烟花',
+  description: 'Running...',
 
   favicon: '/favicon.png',
 
@@ -25,8 +25,14 @@ export default defineSiteConfig({
       color: 'orange',
     },
     {
+      name: 'GitHub',
+      link: 'https://github.com/AIOVTUE',
+      icon: 'i-ri-github-line',
+      color: '#6e5494',
+    },
+    {
       name: '微信公众号',
-      link: 'https://image.ttdd.top/file/zyglz/2026/1783501660682.jpg',
+      link: 'https://image.zyglz.com/file/zyglz/2026/1783501660682.jpg',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
@@ -35,6 +41,12 @@ export default defineSiteConfig({
       link: 'mailto:admin@ttdd.top',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
+    },
+    {
+      name: '资源管理站',
+      link: 'https://www.zyglz.com',
+      icon: 'i-ri-train-line',
+      color: '#8cb1b3',
     },
   ],
 
