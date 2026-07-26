@@ -7,7 +7,7 @@ export default defineSiteConfig({
   subtitle: '雪',
   author: {
     name: 'Tidus',
-    avatar: 'https://www.ttdd.top/_astro/picture.DSjuM8To_ZLEM4O.webp',   //站点头像
+    avatar: 'https://image.ttdd.top/file/ttdd/2026/1785069105807.png',   //站点头像
     status: {
       emoji: '🌸',
       message: '发呆ing...',
@@ -25,28 +25,16 @@ export default defineSiteConfig({
       color: 'orange',
     },
     {
-      name: 'GitHub',
-      link: 'https://github.com/AIOVTUE',
-      icon: 'i-ri-github-line',
-      color: '#6e5494',
-    },
-    {
       name: '微信公众号',
-      link: 'https://r2tc.20030327.xyz/file/博客/主题/1780654223927_mmexport1780654189207.jpeg',
+      link: 'https://image.ttdd.top/file/zyglz/2026/1783501660682.jpg',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
     {
       name: 'E-Mail',
-      link: 'mailto:x@yybb.us',
+      link: 'mailto:admin@ttdd.top',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
-    },
-    {
-      name: 'Travelling',
-      link: 'https://www.travellings.cn/go.html',
-      icon: 'i-ri-train-line',
-      color: '#8cb1b3',
     },
   ],
 
@@ -85,13 +73,13 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://i.postimg.cc/fyYTncnJ/IMG-20240915-155521.jpg',
+        url: 'https://image.ttdd.top/file/ttdd/2026/1785069105807.png',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: '微信支付',
-        url: 'https://i.postimg.cc/26s8KHts/IMG-20240915-155547.png',
+        url: 'https://image.ttdd.top/file/ttdd/2026/1785069105807.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
