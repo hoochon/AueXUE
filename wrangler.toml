@@ -12,5 +12,4 @@ database_id = "fdeea008-0935-4f93-ad65-50712b561d31"  # 数据库id改成自己�
 binding = "BUCKET"   # 这个不能动
 bucket_name = "aiovtue-blog"   # 名字不一样也要改，最好一样
 
-[vars]
-SITE_URL = "https://blog.ttdd.top"
+
